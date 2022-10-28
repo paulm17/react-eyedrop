@@ -9214,9 +9214,9 @@ react-error-overlay@^6.0.9:
   integrity sha512-/6UZ2qgEyH2aqzYZgQPxEnz33NJ2gNsnHA2o5+o4wW9bLM/JYQitNP9xPhsXwC08hMMovfGe/8retsdDsczPRg==
 
 react-eyedrop@^5.4.1:
-  version "5.4.1"
-  resolved "https://registry.yarnpkg.com/react-eyedrop/-/react-eyedrop-5.4.1.tgz#932a0e0f76cd99b381e772d1512a5b44d6175334"
-  integrity sha512-aZuuAts3Zj/M8rPHnhWQg3QZMMC+xxFehYNjT8+vXZZVBU3KO/ofeQsLSUtWysbVgDLfwVjk3WxgkqRVnxIt5Q==
+  version "5.4.2"
+  resolved "https://registry.yarnpkg.com/react-eyedrop/-/react-eyedrop-5.4.2.tgz#08756f8c4ddb1485e358fb59158157f1ee833cfd"
+  integrity sha512-JavxSey1GTsTHT5bKy26eQ/ZThewaX/Gaq6eZXVSigX0ULr4PPLAkbGw/6kvk6ZM6SmFlwl28qFaKYaQUJct/Q==
   dependencies:
     get-canvas-pixel-color "^2.0.0"
     html2canvas "^1.0.0-rc.5"
